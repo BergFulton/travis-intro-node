@@ -14,5 +14,8 @@
   "license": "MIT",
   "devDependencies": {
     "mocha": "^3.0"
+  },
+  "dependencies": {
+    "npm": "^6.0.0"
   }
 }
